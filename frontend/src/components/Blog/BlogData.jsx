@@ -1,5 +1,5 @@
 import blog1 from '../../assets/Banner.jpg';
-import blog2 from '../../assets/r6.png';
+import blog2 from '../../assets/R1.png';
 import blog3 from '../../assets/Banner3.jpg';
 import blog4 from '../../assets/Banner2.jpg';
 
