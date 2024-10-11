@@ -16,7 +16,7 @@ import { toast } from 'react-toastify'
 const Home = () => {
 
 
-  const { url, list, setList, addToCart, cartItems, isCartOpen, fetchItems ,token} = useContext(ShopContext);
+  const { url, list, setList, addToCart, cartItems, isCartOpen, fetchItems } = useContext(ShopContext);
 
 
 
